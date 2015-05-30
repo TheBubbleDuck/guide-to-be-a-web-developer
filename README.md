@@ -9,7 +9,7 @@ Here are a few list of things to start learning. I will be updating this repo to
 
 ####The 5 Basics Food Groups
 
-#####Version Control
+###Version Control
 
 ```
 What is ‘version control’, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.”
@@ -37,7 +37,7 @@ I would suggest to any new developer to get a GitHub account. Although my accoun
 - [GitHub Article](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 - [git-scm book](https://git-scm.com/book/en/v2)
 
-#####The JavaScripts
+###The JavaScripts
 JavaScript is not Java. Java is not JavaScript. Let's just get that out of the way.
 Understanding the nuances of JavaScript takes time and experience. When I started out, it took me awhile to learn that I should favor === over == in my equality conditionals. Learning when and when not to use ternary operaters came later on. I don't think there is ever a complete understanding of JavaScript, especially as it evolves through out its EcmaScript lifecycles. At the time of this writing, ES6 will be in the birth pangs of its life. 
 
@@ -73,10 +73,10 @@ Frameworks aren't a necessary step quite yet for newer developers. However, it i
 
 There is still so much to learn!
 
-#####CSS and Preprocessers
+###CSS and Preprocessers
 CSS isn't just about making something "Look Pretty". Styling is a very important part of overall user experience and can greatly improve or destroy how users "experience" an app or site. Understanding CSS in general is obviously important. Newer developers should take time to really dig into how CSS works. As you progress, you'll want to dive into things like [Less](http://lesscss.org/) or [Sass](http://sass-lang.com/) preprocessing. I am personally a fan of Sass over Less, but that is just an opinion.
 
-#####HTML, Templates, and Markup
+###HTML, Templates, and Markup
 Understanding fundamentals of HTML mark up is the third piece of the Front-End-Trinity of Web. Understanding the basics of HTML, elements, and laying out a page is vital. Many colleges will likely teach this in its most basic forms (from the many people I have spoken with and personal experience). This will drive your understanding of templating languages.
 
 Templating languages can vary from framework to toolset. This isn't a must, but it is definitely something you will see pop up.
@@ -93,6 +93,7 @@ This might be one of those iffy's poeple may argue about, but overall documentat
 - Node.js and io.js are powerful platforms for building applications and are common when using build systems
 - [grunt](http://gruntjs.com/), [gulp](http://gulpjs.com/), and [webpack](http://webpack.github.io/) are three very popular build systems. I am most familiar with gulp and just started (and very much liking) webpack. 
 - Use [google](www.google.com) (yes, I linked to google.com =P ) and [StackOverflow](www.stackoverflow.com). Look up stuff as much as you need to see how other developers have solved issues.
+- Do tutorials and try new things. Tutorials are a great way to just get your hands dirty. However, try branching out and doing more than what tutorials have you do. Make everything your own piece of work and really learn what exactly you are doing. I don't know how many times I have done a tutorial, gone through the motions, and ended up realizing I don't remember what I did. 
 
 ####Quick Start Ends Here
 The quick start may end here, but there is still much to learn. I'll eventually add more (to include a glossary) of topics and directional points like build systems, automation, package bundling, npm and more later. 
