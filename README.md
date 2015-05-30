@@ -1,7 +1,7 @@
 ##The Brand New Developer
 
 ####The Disclaimer Description Reason Thing
-This is a quick guide to get people who ask how to get rolling on their path to becoming a web developer. There is a lot to learn and a lot that is debateable, but this is supposed to help them get moving somewhere. Keep in my, this is from my experience. 
+This is a quick guide to get people who ask how to get rolling on their path to becoming a web developer. There is a lot to learn and a lot that is debateable, but this is supposed to help them get moving somewhere. Keep in mind, this is gathered from my own experience and what I have dealt with. I wrote this thinking about what I would of wanted to tell myself a few years ago when I first got started.
 
 
 ###Quick Start Learning
@@ -53,6 +53,10 @@ If you really wanted to, you could dig into some of the current ES5 (and possibl
 
 Learning **Object-Oriented Programming** concepts is definitely a plus. It isn't something that is necesarrily new, but JavaScript has definitely taken steps toward OOP design. Take some time to look up what OOP really is and then check out how you can apply it to JS. With ES6 around the corner, it also becomes a bit easier to implement and read with some of the new classables.
 
+**Working With Data**
+
+In many cases, apps and sites are driven by some sort of data, be it posts, images, comments, blogs, advertisments, etc. This data has to come some where and be handled by someone. That someone really is more of a something, and that would be good ol' Mr. JavaScript. The most common form that a lot of this data comes in is in the form of **JSON**. You can check out this [TutsPlus Tutorial](http://code.tutsplus.com/tutorials/understanding-json--active-8817) for some more information. You'll also see the term **API** come up a lot. When working with data, you'll be interacting with **APIs** to retrieve data. Learning basics of making an HTTP request to get this data is pretty key. How you do it is up to you whether using $.ajax, $http, custom XHR.
+
 **Sharpen That Knife**
 
 For some general practice using JavaScript, try [CodeWars](www.codewars.com) Kata system. I personally find them fun to try and come up with new ways to approach problems I've solved, view things from other developer perspectives, and just enjoy the logic we've all come to enjoy when coding.
@@ -81,3 +85,17 @@ Angular uses its own templating system as does React's JSX syntax. You can also 
 
 #####Documentation and Comments
 This might be one of those iffy's poeple may argue about, but overall documentation and commenting is important in all programming languages, technical skills, etc. It is what keeps collaboration and ease of access alive in development. Although this is probably never a mandatory anywhere, it is a great base skill set to have when developing. Starting out with the habit of commenting your code cleanly
+
+
+
+####Other Noteable Notes
+- Package Managment is very convenient and widely used. Learning [npm](https://www.npmjs.com/) & [bower](http://bower.io/) will help a lot when handling dependencies and building out applications
+- Node.js and io.js are powerful platforms for building applications and are common when using build systems
+- [grunt](http://gruntjs.com/), [gulp](http://gulpjs.com/), and [webpack](http://webpack.github.io/) are three very popular build systems. I am most familiar with gulp and just started (and very much liking) webpack. 
+- Use [google](www.google.com) (yes, I linked to google.com =P ) and [StackOverflow](www.stackoverflow.com). Look up stuff as much as you need to see how other developers have solved issues.
+
+####Quick Start Ends Here
+The quick start may end here, but there is still much to learn. I'll eventually add more (to include a glossary) of topics and directional points like build systems, automation, package bundling, npm and more later. 
+
+Once again, these are things that I have found to be helpful in my journey as a developer. This is meant to be as a reference point to help new developers with the question, "How do I start and what do I learn or do?". If you have questions, ask me. If you would like to add and modify this, feel free to make a PR!!
+
