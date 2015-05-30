@@ -5,7 +5,7 @@ This is a quick guide to get people who ask how to get rolling on their path to 
 
 
 ###Quick Start Learning
-Here are a few list of things to start learning. I will be updating this repo to try and make things organized in more of a book form once I start adding content or people collaborate on it.
+Here are a few list of things to start learning. I will be updating this repo to try and make things organized in more of a book form once I start adding content or people collaborate on it. This is geared toward the JS developer. Although I will hit more of a front-end aspect, I will throw in some pieces to help newcomers look out for when dealing with backend development.
 
 #####Version Control
 
@@ -28,11 +28,27 @@ Some basics you'll want to pick up at first are
 
 Once you start learning **Git**, you can also pick things up like making pull requests and working in collaborative environments.
 
-**Some Articles/Links to Help out **
+**Some Articles/Links to Help out**
 
 - [GitHub Article](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 - [git-scm book](https://git-scm.com/book/en/v2)
 
 #####The JavaScripts
 JavaScript is not Java. Java is not JavaScript. Let's just get that out of the way.
+Understanding the nuances of JavaScript takes time and experience. When I started out, it took me awhile to learn that I should favor === over == in my equality conditionals. Learning when and when not to use ternary operaters came later on. I don't think there is ever a complete understanding of JavaScript, especially as it evolves through out its EcmaScript lifecycles. At the time of this writing, ES6 will be in the birth pangs of its life. 
+
+At the least, get an understanding of JavaScript, how to write out logic, and other basic details. For those who are coming to development rather new, take some time learning how JS works in general. Check out [CodeCademy](http://www.codecademy.com/).
+
+If you really wanted to, you could dig into some of the current ES5 (and possibly ES6) documentation online and just going ham. However, it isn't always easy to understand it all if you aren't coding anything. Development is definitely a hands on type of thing.
+
+Learning **Object-Oriented Programming** concepts is definitely a plus. It isn't something that is necesarrily new, but JavaScript has definitely taken steps toward OOP design. Take some time to look up what OOP really is and then check out how you can apply it to JS. With ES6 around the corner, it also becomes a bit easier to implement and read with some of the new classables.
+
+For some general practice using JavaScript, try [CodeWars](www.codewars.com) Kata system. I personally find them fun to try and come up with new ways to approach problems I've solved, view things from other developer perspectives, and just enjoy the logic we've all come to enjoy when coding.
+
+JavaScript, nowadays, comes in many forms of use and implementations. JS Frameworks are really popular. Try checking out some popular frameworks like [AngularJS](https://angularjs.org/), [ReactJS](https://facebook.github.io/react/), or [EmberJS](http://emberjs.com/). There are plenty more out there, but I am personally more acquanted with AngularJS and am just getting into React.
+
+Frameworks aren't a necessary step quite yet for newer developers. However, it is great to at least get your hands dirty in them to see what they offer and how they work. There is still so much to learn!
+
+#####CSS and Preprocessers
+CSS isn't just about making something "Look Pretty". Styling is a very important part of overall user experience and can greatly improve or destroy how users "experience" an app or site. Understanding CSS in general is obviously important. Newer developers should take time to really dig into how CSS works. As you progress, you'll want to dive into things like [Less](http://lesscss.org/) or [Sass](http://sass-lang.com/) preprocessing. I am personally a fan of Sass over Less, but that is just an opinion.
 
