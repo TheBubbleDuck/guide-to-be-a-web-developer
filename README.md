@@ -1,15 +1,15 @@
 ##The Brand New Developer
 
-####The Disclaimer Description Reason Thing
+#### The Disclaimer Description Reason Thing
 This is a quick guide to get people who ask how to get rolling on their path to becoming a web developer. There is a lot to learn and a lot that is debateable, but this is supposed to help them get moving somewhere. Keep in mind, this is gathered from my own experience and what I have dealt with. I wrote this thinking about what I would of wanted to tell myself a few years ago when I first got started.
 
 
-###Quick Start Learning
+### Quick Start Learning
 Here are a few list of things to start learning. I will be updating this repo to try and make things organized in more of a book form once I start adding content or people collaborate on it. This is geared toward the JS developer. Although I will hit more of a front-end aspect, I will throw in some pieces to help newcomers look out for when dealing with backend development.
 
-####The 5 Basics Food Groups
+#### The 5 Basics Food Groups
 
-###Version Control
+### Version Control
 
 ```
 What is ‘version control’, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.”
@@ -67,16 +67,16 @@ Try picking up a sense of coding style. Although it changes from place to place,
 
 **Frameworks Work**
 
-JavaScript, nowadays, comes in many forms of use and implementations. JS Frameworks are really popular. Try checking out some popular frameworks like [AngularJS](https://angularjs.org/), [ReactJS](https://facebook.github.io/react/), or [EmberJS](http://emberjs.com/). There are plenty more out there, but I am personally more acquanted with AngularJS and am just getting into React.
+JavaScript, nowadays, comes in many forms of use and implementations. JS Frameworks are really popular. Try checking out some popular frameworks like [AngularJS](https://angularjs.org/), [ReactJS](https://facebook.github.io/react/), or  There are plenty more out there, but I am personally into React on the frontend. Backend stuf has it's own mess of things to include Next, Graphql/Apollo, and all kinds of stuff. Typical Node/Express is really good base in JS.
 
 Frameworks aren't a necessary step quite yet for newer developers. However, it is great to at least get your hands dirty in them to see what they offer and how they work. Keep in mind that frameworks are a created to help solve issues that developers face. However, that doesn't mean they are the end all be all. 
 
 There is still so much to learn!
 
-###CSS and Preprocessers
+### CSS and Preprocessers
 CSS isn't just about making something "Look Pretty". Styling is a very important part of overall user experience and can greatly improve or destroy how users "experience" an app or site. Understanding CSS in general is obviously important. Newer developers should take time to really dig into how CSS works. As you progress, you'll want to dive into things like [Less](http://lesscss.org/) or [Sass](http://sass-lang.com/) preprocessing. I am personally a fan of Sass over Less, but that is just an opinion.
 
-###HTML, Templates, and Markup
+### HTML, Templates, and Markup
 Understanding fundamentals of HTML mark up is the third piece of the Front-End-Trinity of Web. Understanding the basics of HTML, elements, and laying out a page is vital. Many colleges will likely teach this in its most basic forms (from the many people I have spoken with and personal experience). This will drive your understanding of templating languages.
 
 Templating languages can vary from framework to toolset. This isn't a must, but it is definitely something you will see pop up.
@@ -88,13 +88,13 @@ This might be one of those iffy's poeple may argue about, but overall documentat
 
 
 
-####Other Noteable Notes
+#### Other Noteable Notes
 - Package Managment is very convenient and widely used. Learning [npm](https://www.npmjs.com/) & [bower](http://bower.io/) will help a lot when handling dependencies and building out applications
 - Node.js and io.js are powerful platforms for building applications and are common when using build systems
 - [grunt](http://gruntjs.com/), [gulp](http://gulpjs.com/), and [webpack](http://webpack.github.io/) are three very popular build systems. I am most familiar with gulp and just started (and very much liking) webpack. 
 - Use [google](www.google.com) (yes, I linked to google.com =P ) and [StackOverflow](www.stackoverflow.com). Look up stuff as much as you need to see how other developers have solved issues.
 - Do tutorials and try new things. Tutorials are a great way to just get your hands dirty. However, try branching out and doing more than what tutorials have you do. Make everything your own piece of work and really learn what exactly you are doing. I don't know how many times I have done a tutorial, gone through the motions, and ended up realizing I don't remember what I did. 
-- [Bootstrap](http://getbootstrap.com/) and [Foundation](http://foundation.zurb.com/) are very common FE-Frameworks to get you started with basic UI components. Use and customize them as needed.
+- [Bootstrap](http://getbootstrap.com/) and [Foundation](http://foundation.zurb.com/) are very common FE-Frameworks to get you started with basic UI components. Use and customize them as needed. (these are old so probably don't matter anymore)
 
 ####Quick Start Ends Here
 The quick start may end here, but there is still much to learn. I'll eventually add more (to include a glossary) of topics and directional points like build systems, automation, package bundling, npm and more later. 
