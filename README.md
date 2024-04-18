@@ -91,7 +91,7 @@ This might be one of those iffy's poeple may argue about, but overall documentat
 #### Other Noteable Notes
 - Package Managment is very convenient and widely used. Learning [npm](https://www.npmjs.com/) & [bower](http://bower.io/) will help a lot when handling dependencies and building out applications
 - Node.js and io.js are powerful platforms for building applications and are common when using build systems
-- [grunt](http://gruntjs.com/), [gulp](http://gulpjs.com/), and [webpack](http://webpack.github.io/) are three very popular build systems. I am most familiar with gulp and just started (and very much liking) webpack. 
+-  [webpack](http://webpack.github.io/)  Webpack is pretty popular but theres much more to learn out there.
 - Use [google](www.google.com) (yes, I linked to google.com =P ) and [StackOverflow](www.stackoverflow.com). Look up stuff as much as you need to see how other developers have solved issues.
 - Do tutorials and try new things. Tutorials are a great way to just get your hands dirty. However, try branching out and doing more than what tutorials have you do. Make everything your own piece of work and really learn what exactly you are doing. I don't know how many times I have done a tutorial, gone through the motions, and ended up realizing I don't remember what I did. 
 - [Bootstrap](http://getbootstrap.com/) and [Foundation](http://foundation.zurb.com/) are very common FE-Frameworks to get you started with basic UI components. Use and customize them as needed. (these are old so probably don't matter anymore)
